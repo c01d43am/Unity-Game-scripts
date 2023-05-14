@@ -4,3 +4,4 @@ Unity scripts are pieces of code written in a scripting language (such as C# or 
 
 Interactive scripts are typically written using a scripting language such as C# (Unity's primary scripting language) or JavaScript (UnityScript). These scripts are attached to game objects within the Unity Editor and define how those objects should behave and interact with the user or other objects in the scene.
 
+# Make sure you go through the code and edit according to the use
